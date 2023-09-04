@@ -23,3 +23,8 @@
   font-family: "Courier New", Courier, monospace;
   color: darkcyan;
 }
+
+.display-content-inner p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: midnightblue;
+}
