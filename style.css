@@ -7,6 +7,7 @@
 #display-content {
   background-color: #d3d3d3;
   border: 2px solid black;
+  border-radius: 8px;
   width: 70%;
   height: 50vh;
   margin: 0 auto;
