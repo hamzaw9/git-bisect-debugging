@@ -10,6 +10,9 @@ const addToDisplayContainer = () => {
   <p>
     “Never get discouraged if you fail. Learn from it. Keep trying.” ― Thomas Edison
   </p>
+  </p>
+    “Every time we deal with an enemy, we create two more.”  ― Tyrion Lannister
+  </p>
 </div>`;
 };
 
